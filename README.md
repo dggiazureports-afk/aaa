@@ -3,7 +3,7 @@
 
 This repository contains solutions for Assignment 1 of Module 2: Basic Python Concepts.
 
-## frist project: Basic Mathematical Operations
+## first project: Basic Mathematical Operations
 - Takes two numbers from the user
 - Performs addition, subtraction, multiplication, and division
 - Displays the results
